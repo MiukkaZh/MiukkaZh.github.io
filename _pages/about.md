@@ -31,12 +31,36 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2022</div><img src='images/icassp2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Learning Domain-Invariant Transformation for Speaker Verification (CCF B)](https://ieeexplore.ieee.org/abstract/document/9747514)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Hanyi Zhang**, Longbiao Wang, Kong Aik Lee, Meng Liu, Jianwu Dang, Hui Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 针对声纹识别系统在实际应用中所面临的由于采录方式和说话风格等内在和外在因素不匹配而导致的域漂移问题, 提出了元泛化转换以自适应地将提取的特征映射到域不变的嵌入空间中, 并实现了支持高阶梯度的通用架构。该方法适用于不同的主干网络, 在未见领域上取得了 16% 的相对性能提升。
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2021</div><img src='images/icassp2021.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Meta-Learning for Cross-Channel Speaker Verification (CCF B)](https://ieeexplore.ieee.org/abstract/document/9413978)
+
+**Hanyi Zhang**, Longbiao Wang, Kong Aik Lee, Meng Liu, Jianwu Dang, Hui Chen
+
+- 为降低信道不匹配对声纹识别系统造成的不利影响, 提出了元说话人嵌入网络来优化语音嵌入在子空间中的局部与全局分布。在不增加额外参数的前提下, 取得了 10% 的相对性能提升。
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interspeech 2020</div><img src='images/interspeech2020.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Adversarial Separation Network for Speaker Recognition (CCF C)](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/1966.pdf)
+
+**Hanyi Zhang**, Longbiao Wang, Yunchun Zhang, Meng Liu, Kong Aik Lee, Jianguo Wei
+
+- 为防止声纹识别系统被不易察觉的对抗攻击所干扰, 提出了对抗分离网络以从对抗样本中抽离对抗扰动, 并恢复自然样本。面对不同强度、不同类型的对抗攻击, 该方法均显著提高了声纹识别系统抵御对抗攻击的能力。
 </div>
 </div>
 
