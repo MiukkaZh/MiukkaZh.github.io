@@ -17,14 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+章瀚逸的主要研究方向为复杂场景下的声纹识别、元学习与模式识别, 作为主要参与者参加了国家自然科学基金面上项目、新大陆横向项目等科研与合作项目, 并在**ICASSP**、**Interspeech**等信号处理的国际顶尖会议上发表3篇一作论文。
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 研究方向
+- **语音信息处理**: 复杂场景下的声纹识别
+- **模式识别与机器学习**: 元学习, 对抗攻击
+
+# 📖 Educations
+- *2020.09 - 至今*, 硕士学位, 天津大学, 智能与计算学部, 软件工程专业, 导师: 王龙标、党建武, 外导: Kong Aik Lee (Senior Scientist)
+- *2016.09 - 2020.07*, 学士学位, 云南大学, 国家示范性软件学院, 信息安全专业, 导师: 谢诚副教授
 
 # Publications 
 
@@ -35,7 +39,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Hanyi Zhang**, Longbiao Wang, Kong Aik Lee, Meng Liu, Jianwu Dang, Hui Chen
 
-- 针对声纹识别系统在实际应用中所面临的由于采录方式和说话风格等内在和外在因素不匹配而导致的域漂移问题, 提出了元泛化转换以自适应地将提取的特征映射到域不变的嵌入空间中, 并实现了支持高阶梯度的通用架构。该方法适用于不同的主干网络, 在未见领域上取得了 16% 的相对性能提升。
+- 针对声纹识别系统在实际应用中所面临的由于采录方式和说话风格等内在和外在因素不匹配而导致的域漂移问题, 提出了元泛化转换以自适应地将提取的特征映射到域不变的嵌入空间中, 并实现了支持高阶梯度的通用架构。该方法适用于不同的主干网络, 在未见领域上取得了 16% 的相对性能提升。[[Code]](https://github.com/MiukkaZh/MGT)
 
 </div>
 </div>
@@ -109,6 +113,24 @@ Liu Zhang, **Hanyi Zhang**, Jin Guo, Detao Ji, Qing Liu, Cheng Xie
 </div>
 </div>
 
+# 💬 Invited Talks
+### 主要参与者
+- *2021.05 - 至今*, 国家自然科学基金面上项目, 面向复杂环境的声纹识别与声纹反欺诈研究, NO: 62176182
+- *2021.08 - 至今*, 新大陆横向项目
+- *2019.02 - 2020.05*, “基于深度学习的语音评价”校企合作项目
+### 参与者
+- *2020.08 - 至今*, 科技部国家重点研发计划“智能机器人”专项课题, 基于语言认知机理的类脑自然语言识别与交互
+- *2020.08 - 2021.12*, 国家自然科学基金面上项目, 面向混响环境的多口音语音识别研究, No. 61771333
+
+
+# 专利与证书
+- 中国发明专利, 融合深度语言生成模型的语言表达能力评价方法和系统, CN111341346A
+- 软件著作权, 基于灰度图的恶意文件分类软件, 2017SR601808
+- 信息安全工程师 (软考证书)
+- 英语六级
+- 国家信息安全水平认证 (NISP) 一级
+
+
 # 🎖 Honors and Awards
 - *2019.10* 本科生国家奖学金, 中华人民共和国教育部
 - *2019.05* 第五届 “互联网+” 创新创业大赛省赛银奖
@@ -119,13 +141,8 @@ Liu Zhang, **Hanyi Zhang**, Jin Guo, Detao Ji, Qing Liu, Cheng Xie
 - *2020.06* 云南大学优秀本科学生毕业论文; 云南大学优秀毕业生
 - *2017.10, 2018.10* 学业奖学金, 云南大学
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 科研服务
+- *2022.03 - 2022.05*, 天津大学硕士生课程《智能网联汽车技术》助教
+- *2021.08 - 2022.01*, 天津大学本科生课程《语音信息处理》助教
+- 参与编撰《语音信息处理理论与实践》教材
