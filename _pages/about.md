@@ -65,7 +65,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interspeech 2020</div><img src='images/new.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TASLP</div><img src='images/new.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Meta-Generalization for Domain-Invariant Speaker Verification (IEEE TASLP; SCI Q1; Under review)**
