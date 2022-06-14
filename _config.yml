@@ -23,7 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "章 瀚 逸"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "天津大学\\IEEE Student Member"
+  bio              : "天津大学"
+  ieee             : "IEEE Student Member"
   location         : "中国天津"
   employer         : 
   pubmed           : 
