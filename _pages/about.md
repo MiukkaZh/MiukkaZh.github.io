@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 个人简介
-章瀚逸, IEEE Student Member, 硕士就读于天津大学智能与计算学部软件工程专业, 本科就读于云南大学国家示范性软件学院信息安全专业, 曾获国家奖学金、三好学生、优秀毕业生等荣誉。主要研究方向为复杂场景下的声纹识别、元学习与模式识别, 作为主要参与者参加了国家自然科学基金面上项目、新大陆横向项目等科研与合作项目, 并在**ICASSP**、**Interspeech**等信号处理的国际顶尖会议上发表3篇一作论文。
+章瀚逸, IEEE Student Member, 硕士就读于天津大学智能与计算学部软件工程专业, 本科就读于云南大学国家示范性软件学院信息安全专业, 曾获国家奖学金1项, 毕业生荣誉2项, 校三好学生1项, 校奖学金4项, 省级竞赛奖项3项, 发明专利1项, 软件著作权1项。
+
+主要研究方向为复杂场景下的声纹识别、元学习与模式识别, 作为主要参与者参加了国家自然科学基金面上项目、新大陆横向项目等科研与合作项目, 并在**ICASSP**、**Interspeech**等信号处理的国际顶尖会议上发表3篇一作论文, 在国际顶尖期刊**IEEE/ACM Transactions on Audio Speech and Language Processing (TASLP)**上在投论文1篇。
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -27,11 +29,11 @@ redirect_from:
 - **语音信息处理**: 复杂场景下的声纹识别
 - **模式识别与机器学习**: 元学习, 对抗攻击
 
-# 📖 Educations
+# 教育经历
 - *2020.09 - 至今*, 硕士学位, 天津大学, 智能与计算学部, 软件工程专业, 导师: 王龙标、党建武, 外导: Kong Aik Lee (Senior Scientist)
 - *2016.09 - 2020.07*, 学士学位, 云南大学, 国家示范性软件学院, 信息安全专业, 导师: 谢诚副教授
 
-# Publications 
+# 论文发表
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2022</div><img src='images/icassp2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,7 +42,7 @@ redirect_from:
 
 **Hanyi Zhang**, Longbiao Wang, Kong Aik Lee, Meng Liu, Jianwu Dang, Hui Chen
 
-- 针对声纹识别系统在实际应用中所面临的由于采录方式和说话风格等内在和外在因素不匹配而导致的域漂移问题, 提出了元泛化转换以自适应地将提取的特征映射到域不变的嵌入空间中, 并实现了支持高阶梯度的通用架构。该方法适用于不同的主干网络, 在未见领域上取得了 16% 的相对性能提升。[[Code]](https://github.com/MiukkaZh/MGT)
+- 针对声纹识别系统在实际应用中所面临的由于采录方式和说话风格等内在和外在因素不匹配而导致的域漂移问题, 提出了元泛化转换以自适应地将提取的特征映射到域不变的嵌入空间中, 并实现了支持高阶梯度的通用架构。该方法适用于不同的主干网络, 在未见领域上取得了 16% 的相对性能提升。[[Code]](https://github.com/MiukkaZh/MGT)[[Video]](https://drive.google.com/file/d/1zgo5PoFUjEhPbOmiSq0jCbKBYz1y9RNT/view?usp=sharing)
 
 </div>
 </div>
@@ -53,7 +55,7 @@ redirect_from:
 
 **Hanyi Zhang**, Longbiao Wang, Kong Aik Lee, Meng Liu, Jianwu Dang, Hui Chen
 
-- 为降低信道不匹配对声纹识别系统造成的不利影响, 提出了元说话人嵌入网络来优化语音嵌入在子空间中的局部与全局分布。在不增加额外参数的前提下, 取得了 10% 的相对性能提升。
+- 为降低信道不匹配对声纹识别系统造成的不利影响, 提出了元说话人嵌入网络来优化语音嵌入在子空间中的局部与全局分布。在不增加额外参数的前提下, 取得了 10% 的相对性能提升。[[Video]](https://drive.google.com/file/d/1Pq-jT9vswikKbvDkifwlKGj99KcaUTAf/view?usp=sharing)
 </div>
 </div>
 
@@ -65,7 +67,7 @@ redirect_from:
 
 **Hanyi Zhang**, Longbiao Wang, Yunchun Zhang, Meng Liu, Kong Aik Lee, Jianguo Wei
 
-- 为防止声纹识别系统被不易察觉的对抗攻击所干扰, 提出了对抗分离网络以从对抗样本中抽离对抗扰动, 并恢复自然样本。面对不同强度、不同类型的对抗攻击, 该方法均显著提高了声纹识别系统抵御对抗攻击的能力。
+- 为防止声纹识别系统被不易察觉的对抗攻击所干扰, 提出了对抗分离网络以从对抗样本中抽离对抗扰动, 并恢复自然样本。面对不同强度、不同类型的对抗攻击, 该方法均显著提高了声纹识别系统抵御对抗攻击的能力。[[Video]](https://www.youtube.com/watch?v=euk9vH7HhdA&t=1s)
 </div>
 </div>
 
@@ -114,7 +116,7 @@ Liu Zhang, **Hanyi Zhang**, Jin Guo, Detao Ji, Qing Liu, Cheng Xie
 </div>
 </div>
 
-# 💬 Invited Talks
+# 项目经历
 ### 主要参与者
 - *2021.05 - 至今*, 国家自然科学基金面上项目, 面向复杂环境的声纹识别与声纹反欺诈研究, NO: 62176182
 - *2021.08 - 至今*, 新大陆横向项目
@@ -132,7 +134,7 @@ Liu Zhang, **Hanyi Zhang**, Jin Guo, Detao Ji, Qing Liu, Cheng Xie
 - 国家信息安全水平认证 (NISP) 一级
 
 
-# 🎖 Honors and Awards
+# 奖项与荣誉
 - *2019.10* 本科生国家奖学金, 中华人民共和国教育部
 - *2019.05* 第五届 “互联网+” 创新创业大赛省赛银奖
 - *2019.04* 第十届 “蓝桥杯” 大赛云南赛区二等奖
