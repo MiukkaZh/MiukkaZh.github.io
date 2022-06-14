@@ -110,8 +110,14 @@ Liu Zhang, **Hanyi Zhang**, Jin Guo, Detao Ji, Qing Liu, Cheng Xie
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.10* 本科生国家奖学金, 中华人民共和国教育部
+- *2019.05* 第五届 “互联网+” 创新创业大赛省赛银奖
+- *2019.04* 第十届 “蓝桥杯” 大赛云南赛区二等奖
+- *2019.04* “未来杯”高校 AI 挑战赛西南赛区第二名
+- *2021.11* 三好学生, 天津大学
+- *2021.09, 2020.09* 一等奖学金, 天津大学
+- *2020.06* 云南大学优秀本科学生毕业论文; 云南大学优秀毕业生
+- *2017.10, 2018.10* 学业奖学金, 云南大学
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
