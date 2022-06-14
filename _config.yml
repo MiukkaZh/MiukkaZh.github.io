@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "章 瀚 逸"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "天津大学"
   location         : "中国天津"
   employer         :
   pubmed           : 
-  googlescholar    : "天津大学"
+  googlescholar    : ""
   email            : "miukkazhang@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
