@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "章 瀚 逸"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "天津大学"
+  bio              : "IEEE Student Member"
   location         : "中国天津"
-  employer         :
+  employer         : "天津大学"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5aQEpPkAAAAJ&hl=zh-CN"
   email            : "miukkazhang@outlook.com"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/MiukkaZh"
+  github           : "MiukkaZh"
   google_plus      :
   keybase          :
   instagram        :
