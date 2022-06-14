@@ -1,28 +1,28 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "关于我"
+    # url: "/#about-me"
 
   - title: "个人简介"
-    url: "/#个人简介"
+    url{target="_blank"}: "/#个人简介"
 
   - title: "研究方向"
-    url: "/#研究方向"
+    # url: "/#研究方向"
 
   - title: "教育经历"
-    url: "/#教育经历"
+    # url: "/#教育经历"
 
   - title: "论文发表"
-    url: "/#论文发表"
+    # url: "/#论文发表"
 
   - title: "项目经历"
-    url: "/#项目经历"
+    # url: "/#项目经历"
 
   - title: "专利与证书"
-    url: "/#专利与证书"
+    # url: "/#专利与证书"
 
   - title: "奖项与荣誉"
-    url: "/#奖项与荣誉"
+    # url: "/#奖项与荣誉"
 
   - title: "科研服务"
-    url: "/#科研服务"
+    # url: "/#科研服务"
