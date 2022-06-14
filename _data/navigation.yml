@@ -4,7 +4,7 @@ main:
     # url: "/#about-me"
 
   - title: "个人简介"
-    url{target="_blank"}: "/#个人简介"
+    # url: "/#个人简介"
 
   - title: "研究方向"
     # url: "/#研究方向"
