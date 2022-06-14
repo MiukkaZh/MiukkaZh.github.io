@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-章瀚逸的主要研究方向为复杂场景下的声纹识别、元学习与模式识别, 作为主要参与者参加了国家自然科学基金面上项目、新大陆横向项目等科研与合作项目, 并在**ICASSP**、**Interspeech**等信号处理的国际顶尖会议上发表3篇一作论文。
+# 个人简介
+章瀚逸, IEEE Student Member, 硕士就读于天津大学智能与计算学部软件工程专业, 本科就读于云南大学国家示范性软件学院信息安全专业, 曾获国家奖学金、三好学生、优秀毕业生等荣誉。主要研究方向为复杂场景下的声纹识别、元学习与模式识别, 作为主要参与者参加了国家自然科学基金面上项目、新大陆横向项目等科研与合作项目, 并在**ICASSP**、**Interspeech**等信号处理的国际顶尖会议上发表3篇一作论文。
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
