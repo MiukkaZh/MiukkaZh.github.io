@@ -76,6 +76,39 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASRU 2021</div><img src='images/ASRU.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DeepLip: A Benchmark for Deep Learning-Based Audio-Visual Lip Biometrics](https://ieeexplore.ieee.org/abstract/document/9688240)
+
+Meng Liu, Longbiao Wang, Kong Aik Lee, **Hanyi Zhang**, Chang Zeng, Jianwu Dang
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Electronics 2020</div><img src='images/electronics.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Generative Adversarial Network-Based Neural Audio Caption Model for Oral Evaluation (SCI)](https://www.mdpi.com/2079-9292/9/3/424)
+
+Liu Zhang, Chao Shu, Jin Guo, **Hanyi Zhang**, Cheng Xie, Qing Liu
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICEBE 2019</div><img src='images/icebe.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Speech Evaluation Based on Deep Learning Audio Caption](https://link.springer.com/chapter/10.1007/978-3-030-34986-8_4)
+
+Liu Zhang, **Hanyi Zhang**, Jin Guo, Detao Ji, Qing Liu, Cheng Xie
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
