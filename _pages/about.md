@@ -64,7 +64,17 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interspeech 2020</div><img src='images/new.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Meta-Generalization for Domain-Invariant Speaker Verification (IEEE TASLP; SCI Q1; Under review)**
+
+**Hanyi Zhang**, ...
+
+- 针对部署在实际应用中的声纹识别系统所面临的未见域和多变量挑战, 采用基于度量和高阶梯度的优化策略, 结合创新性的元任务采样方案, 降低了泛化网络训练的难度, 大幅提升了声纹识别系统在处理未见域的语音时的性能。
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
