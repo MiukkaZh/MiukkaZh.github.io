@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "关于我"
-    url: "/#关于我"
+    url: "/关于我"
 
   - title: "个人简介"
-    url: "/-个人简介"
+    url: "/个人简介/"
 
   - title: "研究方向"
-    url: "/#-研究方向"
+    url: "/pages/#研究方向"
 
   - title: "教育经历"
-    url: "#/-教育经历"
+    url: "/教育经历/"
 
   - title: "论文发表"
     url: "#/论文发表"
